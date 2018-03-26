@@ -6,7 +6,7 @@ import (
  	"net/http"
  	"os"
 	"github.com/gorilla/handlers"
-	"rest-and-go/store"
+	//"rest-and-go/store"
 )
 
 func main() {
